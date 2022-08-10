@@ -9,3 +9,5 @@ Ejercicios realizados por sesión de clases:
 3. [Sesión Tres](/sesion3/README.md)
 4. [Sesión Cuatro](/sesion4/README.md)
 5. [Sesión Cinco](/sesion5/README.md)
+
+Autor: Jesús Collado Olán
