@@ -5,6 +5,11 @@ Listado de ejercicios
 
 * ejercicio1.py
 
+Descripción: Solicitar variables
+
+
+```python
+
 '''
 *********** Curso de programación acelerada en Python ************
 Date 04-08-2022
@@ -24,4 +29,6 @@ print("Tiene una superficie de ", superficie)
 print("Población total: ", poblacion_total)
 print("Promedio de temperatura: ", promedio_temperatura)
 print("Productos que produce: ", productos_produce[0], ',', productos_produce[1], 'y', productos_produce[2] )
+```
+
 
